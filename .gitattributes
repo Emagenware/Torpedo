@@ -1,0 +1,2 @@
+*.zig linguist-language=Zig
+*.zig linguist-detectable=true
