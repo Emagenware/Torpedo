@@ -1,0 +1,10 @@
+# Zig build artifacts
+.zig-cache/
+zig-out/
+
+# Editor/OS cruft
+.DS_Store
+*.swp
+
+# Local scratch boards, if you drop any here while testing
+/scratch/
